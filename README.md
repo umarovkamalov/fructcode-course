@@ -1,2 +1,2 @@
 # fructcode-course
-online0course
+online-course
